@@ -1,3 +1,5 @@
+//v0.0.2
+
 package main
 
 import (
